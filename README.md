@@ -38,14 +38,6 @@
 
 </div>
 
----
-
-<!-- CODING GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9b0c1f1a1c7cd9d58e7c5f2ab.gif" width="500"/>
-</p>
-
-
 
 ## 🛠️ Tech Stack  
 <p align="center">
