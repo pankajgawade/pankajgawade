@@ -45,16 +45,7 @@
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9b0c1f1a1c7cd9d58e7c5f2ab.gif" width="500"/>
 </p>
 
----
 
-## 🔗 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/pankaj-gawade-969094214" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/pankajg96k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48px"/></a>
-    <a href="https://leetcode.com/u/pankajgawade" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="48px"/></a>
-</p>
-
----
 
 ## 🛠️ Tech Stack  
 <p align="center">
@@ -69,3 +60,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgawade&theme=tokyonight" />
 </p>
 
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/pankaj-gawade-969094214" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/pankajg96k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48px"/></a>
+</p>
+
+---
