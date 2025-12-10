@@ -41,22 +41,13 @@ I am passionate about **Spring Boot, Kafka, Microservices, and Domain-Driven Des
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgawade&theme=tokyonight" />
 </p>
 
-<!-- Coding Matrix GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/18/52/8f/18528f4f1b02d7f4e27c17fafa7c3a8f.gif" width="900"/>
-</p>
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
-
 ---
 📫Connect with me:
 
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/rishikagupta-rg/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/Rishika5000) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww) 
-[<img src="https://user-images.githubusercontent.com/39955420/147606108-506d542b-a344-43d3-a4a3-aadd775f5c0b.png" height="48" width="48">](https://www.polywork.com/rishikagupta)
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:rishika246813579@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/rishikagupta__/)
+[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/pankaj-gawade-969094214/) 
+[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:pankajg5304@gmail.com)
+[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/_kokanheartedboy_/)
 
 
 
