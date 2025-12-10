@@ -7,13 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineer+from+India;Spring+Boot+Backend+Enthusiast;Distributed+Systems+%7C+Kafka+%7C+Microservices;Clean+Architecture+%7C+High+Performance+Systems;Backend+is+my+Playground+🚀" />
 </p>
 
-
-
 ---
 
-
 ## 🌌 About Me 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 I am **Pankaj Gawade**, currently building **ShowTime**, a real-time movie booking ecosystem.  
 I am passionate about **Spring Boot, Kafka, Microservices, and Domain-Driven Design** and love creating **high-performance, cloud-ready, distributed systems**.  
