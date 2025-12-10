@@ -17,14 +17,17 @@
 
 ## 🌌 About Me — *Beyond a Developer*
 
-🔥 Architecting **ShowTime**, a real-time movie booking ecosystem<br>
-⚡ Obsessed with **Spring Boot • Kafka • Microservices • DDD**<br>
-🚀 Designing **cloud-ready, production-grade distributed systems**<br>
-🌱 Growing daily in **Kubernetes | Docker | Event Streaming**<br>
+I am **Pankaj Gawade**, currently building **ShowTime**, a real-time movie booking ecosystem.  
+I am passionate about **Spring Boot, Kafka, Microservices, and Domain-Driven Design** and love creating **high-performance, cloud-ready, distributed systems**.  
+🌱 I am constantly learning and growing in **Kubernetes, Docker, and Event Streaming** to make software more scalable and reliable.  
+
+⚡ **Fun fact:** I enjoy exploring system design and clean architecture patterns, turning complex problems into elegant solutions.  
+💬 **Ask me anything**, I will be more than happy to help! :D  
 
 🎯 **Portfolio:** https://successful-amount-463663.framer.app/  
 📄 **Resume:** https://drive.google.com/file/d/13QWIt_xi2nd5K0XTDmY1W9_KNarI5eP3/view  
 📬 **Email Me:** pankajg5304@gmail.com  
+
 
 </div>
 
