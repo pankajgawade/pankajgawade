@@ -1,5 +1,4 @@
 <!-- TOP BANNER -->
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 <p align="center">
   <img src="https://i.pinimg.com/originals/41/14/17/4114177f4f51a5f2fbf3b6a75f76fb80.gif" width="1000"/>
 </p>
@@ -76,6 +75,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/18/52/8f/18528f4f1b02d7f4e27c17fafa7c3a8f.gif" width="900"/>
 </p>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 ---
 📫Connect with me:
