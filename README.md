@@ -31,11 +31,6 @@ Backend engineer focused on building **scalable, high-performance distributed sy
 
 ---
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6f/7a/ff/6f7aff40d9275480bec219c2f478255c.gif" width="700"/>
-</p>
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgawade&theme=tokyonight" />
@@ -55,9 +50,3 @@ Backend engineer focused on building **scalable, high-performance distributed sy
     <img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48" />
   </a>
 </p>
-
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ea/62/39/ea623920c6cc9f20a0fbc0c07e02e56d.gif" width="400"/>
-</p>
-
