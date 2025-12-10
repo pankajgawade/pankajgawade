@@ -13,6 +13,7 @@
 
 
 ## 🌌 About Me 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 I am **Pankaj Gawade**, currently building **ShowTime**, a real-time movie booking ecosystem.  
 I am passionate about **Spring Boot, Kafka, Microservices, and Domain-Driven Design** and love creating **high-performance, cloud-ready, distributed systems**.  
