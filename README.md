@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size: 50px;">
+<h1 align="center" style="font-size: 40px;">
   ⚡ <span style="color:#00eaff;">P A N K A J &nbsp; G A W A D E</span> ⚡
 </h1>
 <!-- Typing Animation -->
