@@ -1,7 +1,3 @@
-<!-- TOP BANNER -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/41/14/17/4114177f4f51a5f2fbf3b6a75f76fb80.gif" width="1000"/>
-</p>
 
 <h1 align="center" style="font-size: 50px;">
   ⚡ <span style="color:#00eaff;">P A N K A J &nbsp; G A W A D E</span> ⚡
