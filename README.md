@@ -46,13 +46,6 @@
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9b0c1f1a1c7cd9d58e7c5f2ab.gif" width="500"/>
 </p>
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/48/8f/0e/488f0edfbd88e49c1bb4f39df10a8d9f.gif" width="800"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,react,nextjs,js,ts,html,css,bootstrap,tailwind,cpp,figma" /><br/>
