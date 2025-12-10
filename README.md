@@ -55,10 +55,3 @@
 
 ---
 
-## 🔗 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/pankaj-gawade-969094214" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/pankajg96k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48px"/></a>
-</p>
-
----
