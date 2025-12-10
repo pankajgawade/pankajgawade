@@ -27,27 +27,13 @@ I am passionate about **Spring Boot, Kafka, Microservices, and Domain-Driven Des
 
 
 </div>
-
 ---
-
-<!-- Coding GIF Section -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9b0c1f1a1c7cd9d58e7c5f2ab.gif" width="500"/>
-</p>
-
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,react,nextjs,js,ts,html,css,bootstrap,tailwind,cpp,figma" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,postgres,mysql,git,postman,aws,gcp,rabbitmq,redis,linux" />
 </p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6f/7a/ff/6f7aff40d9275480bec219c2f478255c.gif" width="700"/>
-</p>
-
 ---
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgawade&theme=tokyonight" />
