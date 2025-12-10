@@ -12,11 +12,12 @@
 ## 🌌 About Me
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG0yOGhob2ZiMWdxaHNvdHQ1bmR6aDJwMDc1Nzgxb3FmeW92dmF0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGJEEqTOVq7IW4g/giphy.gif">
 
-- 🔹 Backend engineer building scalable and **high-performance distributed systems**  
-- 🔹 Passionate about **Spring Boot, Kafka, Microservices, and clean architecture**  
-- 🔹 Continuously exploring **Kubernetes, Docker, and event-driven systems** to improve reliability and scalability  
-- 🔹 ⚡ **Fun fact:** I enjoy solving complex system design problems and turning them into elegant solutions  
-- 🔹 💬 **Ask me anything**, happy to share knowledge and help fellow developers! :D  
+-  Backend engineer building scalable and **high-performance distributed systems**  
+-  Passionate about **Spring Boot, Kafka, Microservices, and clean architecture**  
+-  Continuously exploring **Kubernetes, Docker, and event-driven systems** to improve reliability and scalability
+  
+⚡ **Fun fact:** I enjoy solving complex system design problems and turning them into elegant solutions  
+💬 **Ask me anything**, happy to share knowledge and help fellow developers! :D  
 
 🎯 **Portfolio:** [Link](https://successful-amount-463663.framer.app/)  
 📄 **Resume:** [Click Here](https://drive.google.com/file/d/13QWIt_xi2nd5K0XTDmY1W9_KNarI5eP3/view)  
