@@ -31,7 +31,6 @@
 ⚡ Obsessed with **Spring Boot • Kafka • Microservices • DDD**<br>
 🚀 Designing **cloud-ready, production-grade distributed systems**<br>
 🌱 Growing daily in **Kubernetes | Docker | Event Streaming**<br>
-💡 Philosophy: *“Performance isn’t optional — it's engineered.”*<br><br>
 
 🎯 **Portfolio:** https://successful-amount-463663.framer.app/  
 📄 **Resume:** https://drive.google.com/file/d/13QWIt_xi2nd5K0XTDmY1W9_KNarI5eP3/view  
@@ -51,9 +50,8 @@
 ## 🔗 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/pankaj-gawade-969094214" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
-  <a href="https://leetcode.com/u/pankajgawade" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="48px"/></a>
   <a href="https://auth.geeksforgeeks.org/user/pankajg96k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48px"/></a>
-  <a href="https://www.topcoder.com/members/400042" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="48px"/></a>
+    <a href="https://leetcode.com/u/pankajgawade" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="48px"/></a>
 </p>
 
 ---
@@ -71,24 +69,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgawade&theme=tokyonight" />
 </p>
 
----
-
-## 🎬 Special Animated Section  
-<p align="center">
-  <img src="https://i.pinimg.com/originals/25/f6/0f/25f60fc19bbf398a422ed753d7cb5c56.gif" width="700" />
-</p>
-
----
-
-## 🌀 Fun Fact  
-**Backends are puzzles — performance, architecture & scalability are the pieces.**  
-And I enjoy solving them every day. 🚀
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ea/62/39/ea623920c6cc9f20a0fbc0c07e02e56d.gif" width="400"/>
-</p>
-
-<h3 align="center">Made with ❤️ by Pankaj Gawade</h3>
