@@ -14,7 +14,9 @@
 
 Backend engineer focused on building **scalable, high-performance distributed systems**, with a strong passion for **Spring Boot, Kafka, Microservices, and clean architecture**. Continuously exploring **Kubernetes, Docker, and event-driven systems** to enhance system reliability, scalability, and overall performance.
 
-  
+⚡ **Fun fact:** I enjoy solving complex system design problems and turning them into elegant solutions  
+💬 **Ask me anything**, happy to share knowledge and help fellow developers! :D  
+
 🎯 **Portfolio:** [Link](https://successful-amount-463663.framer.app/)  
 📄 **Resume:** [Click Here](https://drive.google.com/file/d/13QWIt_xi2nd5K0XTDmY1W9_KNarI5eP3/view)  
 📬 **Email:** pankajg5304@gmail.com  
