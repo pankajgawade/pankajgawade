@@ -10,7 +10,7 @@
 ---
 
 ## 🌌 About Me 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY0ODJvaHVwbjEzejdiOGI4cnpuYjVoOHkwNGxmYmtobWdydnhiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG0yOGhob2ZiMWdxaHNvdHQ1bmR6aDJwMDc1Nzgxb3FmeW92dmF0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGJEEqTOVq7IW4g/giphy.gif">
 
 I am **Pankaj Gawade**, currently building **ShowTime**, a real-time movie booking ecosystem.  
 I am passionate about **Spring Boot, Kafka, Microservices, and Domain-Driven Design** and love creating **high-performance, cloud-ready, distributed systems**.  
