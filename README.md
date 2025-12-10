@@ -63,10 +63,3 @@
 
 ## ✨ Fun Fact  
 Backends are my playground — if it involves **Spring Boot, performance, and clean architecture**, I’m all in.
-
----
-
-<!-- Footer Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
