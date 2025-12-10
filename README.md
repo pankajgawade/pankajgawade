@@ -14,13 +14,6 @@
 
 ---
 
-<!-- GLASS CARD -->
-<div align="center" style="
-    border: 2px solid #00f0ff; 
-    padding: 25px; 
-    border-radius: 20px; 
-    width: 90%;
-">
 
 ## 🌌 About Me — *Beyond a Developer*
 
