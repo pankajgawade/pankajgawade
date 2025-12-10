@@ -39,27 +39,16 @@
   <a href="https://www.topcoder.com/members/400042" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="45px"/></a>
 </p>
 
----
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
-
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,js,html,css,bootstrap,tailwind,cpp,figma" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,postgres,mysql,git,postman,aws,gcp,rabbitmq" />
 </p>
 
----
-
 ## 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pankajgawade&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -71,12 +60,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgawade&theme=tokyonight" />
 </p>
 
----
-
-<!-- Another cool coding GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</p>
 
 ## ✨ Fun Fact  
 Backends are my playground — if it involves **Spring Boot, performance, and clean architecture**, I’m all in.
