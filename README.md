@@ -12,7 +12,7 @@
 ---
 
 
-## 🌌 About Me — *Beyond a Developer*
+## 🌌 About Me 
 
 I am **Pankaj Gawade**, currently building **ShowTime**, a real-time movie booking ecosystem.  
 I am passionate about **Spring Boot, Kafka, Microservices, and Domain-Driven Design** and love creating **high-performance, cloud-ready, distributed systems**.  
