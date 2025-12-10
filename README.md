@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineer+from+India;Spring+Boot+Backend+Enthusiast;Distributed+Systems+%7C+Kafka+%7C+Microservices;Clean+Architecture+%7C+High+Performance+Systems;Backend+is+my+Playground+🚀" />
 </p>
+
 ---
 
 ## 🌌 About Me
