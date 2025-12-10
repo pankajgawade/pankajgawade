@@ -27,13 +27,17 @@ I am passionate about **Spring Boot, Kafka, Microservices, and Domain-Driven Des
 
 
 </div>
+
 ---
+
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,react,nextjs,js,ts,html,css,bootstrap,tailwind,cpp,figma" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,postgres,mysql,git,postman,aws,gcp,rabbitmq,redis,linux" />
 </p>
+
 ---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgawade&theme=tokyonight" />
