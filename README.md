@@ -20,8 +20,7 @@
 ## 🔗 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/pankaj-gawade-969094214" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
-  <a href="https://www.hackerrank.com/pankajgawade" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="45px"/></a>
-  <a href="https://leetcode.com/pankajgawade" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45px"/></a>
+  <a href="https://leetcode.com/u/pankajgawade" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45px"/></a>
   <a href="https://auth.geeksforgeeks.org/user/pankajg96k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45px"/></a>
   <a href="https://www.topcoder.com/members/400042" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="45px"/></a>
 </p>
