@@ -1,4 +1,5 @@
 <!-- TOP BANNER -->
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 <p align="center">
   <img src="https://i.pinimg.com/originals/41/14/17/4114177f4f51a5f2fbf3b6a75f76fb80.gif" width="1000"/>
 </p>
@@ -17,7 +18,7 @@
 </p>
 
 ---
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+
 <!-- GLASS CARD -->
 <div align="center" style="
     border: 2px solid #00f0ff; 
