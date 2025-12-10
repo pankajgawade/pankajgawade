@@ -16,9 +16,6 @@
 -  Passionate about **Spring Boot, Kafka, Microservices, and clean architecture**  
 -  Continuously exploring **Kubernetes, Docker, and event-driven systems** to improve reliability and scalability
   
-⚡ **Fun fact:** I enjoy solving complex system design problems and turning them into elegant solutions  
-💬 **Ask me anything**, happy to share knowledge and help fellow developers! :D  
-
 🎯 **Portfolio:** [Link](https://successful-amount-463663.framer.app/)  
 📄 **Resume:** [Click Here](https://drive.google.com/file/d/13QWIt_xi2nd5K0XTDmY1W9_KNarI5eP3/view)  
 📬 **Email:** pankajg5304@gmail.com  
