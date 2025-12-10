@@ -2,15 +2,16 @@
 <h1 align="center" style="font-size: 50px;">
   ⚡ <span style="color:#00eaff;">P A N K A J &nbsp; G A W A D E</span> ⚡
 </h1>
+<span align="center">
+  <img src="https://komarev.com/ghpvc/?username=pankajgawade&label=Profile%20Views&color=blueviolet&style=flat-square" />
+</span>
 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineer+from+India;Spring+Boot+Backend+Enthusiast;Distributed+Systems+%7C+Kafka+%7C+Microservices;Clean+Architecture+%7C+High+Performance+Systems;Backend+is+my+Playground+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankajgawade&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</p>
+
 
 ---
 
