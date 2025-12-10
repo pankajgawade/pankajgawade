@@ -1,9 +1,4 @@
-<!-- TOP HEADER -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/41/14/17/4114177f4f51a5f2fbf3b6a75f76fb80.gif" width="1000"/>
-</p>
-
-<h1 align="center" style="font-size: 50px; font-weight:bold;">
+<h1 align="center" style="font-size: 30px; font-weight:bold;">
   ⚡ <span style="color:#00eaff;">P A N K A J &nbsp; G A W A D E</span> ⚡
 </h1>
 
@@ -15,8 +10,6 @@
 ---
 
 ## 🌌 About Me
-<div align="center" style="border:2px solid #00f0ff; border-radius:20px; padding:25px; width:95%; backdrop-filter: blur(10px); background: rgba(0,0,0,0.45);">
-
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG0yOGhob2ZiMWdxaHNvdHQ1bmR6aDJwMDc1Nzgxb3FmeW92dmF0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGJEEqTOVq7IW4g/giphy.gif">
 
 Backend engineer building scalable and **high-performance distributed systems**.  
